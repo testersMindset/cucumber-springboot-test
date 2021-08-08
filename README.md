@@ -1,4 +1,5 @@
-# cucumberSpringbootTest
+# cucumber-springboot-test
+
 Cucumber JVM Automation Framework based on the Java Springboot
 
 Following libraries are used in this project.
