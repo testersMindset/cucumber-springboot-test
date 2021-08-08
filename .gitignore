@@ -1,6 +1,5 @@
 # Default ignored files
-/shelf/
-/workspace.xml
+/.idea/workspace.xml
 /misc.xml
 /modules.xml
 /vcs.xml
@@ -10,9 +9,7 @@ pom.xml
 .classpath
 .project
 .settings/
-target/
 /target/**
-/.classpath
 .bin
-/.idea/
+.idea
 /.iml/
