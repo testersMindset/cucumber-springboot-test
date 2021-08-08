@@ -5,7 +5,7 @@
 /modules.xml
 /vcs.xml
 /pom.properties
-/pom.xml
+pom.xml
 .target
 .classpath
 .project
