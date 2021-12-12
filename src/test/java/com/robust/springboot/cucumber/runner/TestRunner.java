@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features="src/test/resources",
         glue="classpath:com.robust.springboot.cucumber",
-        publish = true
+        publish = false
 )
 public class TestRunner {
 }

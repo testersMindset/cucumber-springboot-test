@@ -1,14 +1,7 @@
 # Default ignored files
-/.idea/workspace.xml
-/misc.xml
-/modules.xml
-/vcs.xml
-/pom.properties
-.target
+target
+.iml
+.idea
 .classpath
 .project
-.settings/
-/target/**
-.bin
-.idea
-/.iml/
+/CucumberSpringBootTest.iml
