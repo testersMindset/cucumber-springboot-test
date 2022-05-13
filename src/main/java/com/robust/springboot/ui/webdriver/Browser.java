@@ -31,7 +31,6 @@ public class Browser {
         if (webDriver != null) {
             getDriver().quit();
             setDriver(null);
-            WebDriverRunner.setWebDriver(null);
         }
     }
 }

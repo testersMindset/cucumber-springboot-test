@@ -11,6 +11,7 @@ public class CucumberHooks {
     @Before
     public void setUp() {
         System.out.println("Starting Browser...");
+        Browser.getDriver();
         open("https://demo.nopcommerce.com/");
     }
 
