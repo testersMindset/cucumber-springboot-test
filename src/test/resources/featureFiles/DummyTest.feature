@@ -1,3 +1,4 @@
+@RegressionTest
 Feature: Test Dummy Calculator
 
   Scenario: Test that this is working correctly

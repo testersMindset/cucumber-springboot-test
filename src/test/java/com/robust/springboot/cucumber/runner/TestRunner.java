@@ -9,6 +9,7 @@ import org.junit.runner.RunWith;
         features="src/test/resources",
         glue="classpath:com.robust.springboot.cucumber",
         stepNotifications = true,
+        tags = "@RegressionTest",
         publish = false
 )
 public class TestRunner {
